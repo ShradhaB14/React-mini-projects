@@ -1,0 +1,32 @@
+{
+  "name": "assignment-2",
+  "version": "1.0.0",
+  "description": "Static React Project with basic concepts",
+  "default": "App.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShradhaB14/react-basic-concepts.git"
+  },
+  "keywords": [
+    "Namaste",
+    "React"
+  ],
+  "author": "Shradha Bhandare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShradhaB14/react-basic-concepts/issues"
+  },
+  "homepage": "https://github.com/ShradhaB14/react-basic-concepts#readme",
+  "dependencies": {
+    "parcel": "^2.16.4",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "react-router": "^6.22.3",
+    "react-router-dom": "^6.22.3"
+  }
+}
