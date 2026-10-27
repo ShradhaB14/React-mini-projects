@@ -1,0 +1,21 @@
+/* Each row */
+div > div {
+  display: flex;
+  gap: 15px;         /* space between elements */
+  margin-bottom: 12px;
+  align-items: center;
+  flex-wrap: wrap;   /* prevents overflow on small screens */
+}
+
+/* Inputs */
+input,
+textarea {
+  padding: 6px;
+  margin-left: 5px;
+}
+
+/* Button spacing */
+button {
+  margin-top: 10px;
+  padding: 8px 16px;
+}
