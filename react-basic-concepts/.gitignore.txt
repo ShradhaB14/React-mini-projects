@@ -1,0 +1,19 @@
+# Ignore node_modules everywhere
+node_modules/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# React/Vite/Node build output
+dist/
+build/
+
+# Angular build output
+.angular/
+coverage/
+
+# Logs
+*.log
+npm-debug.log*
